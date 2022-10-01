@@ -19,6 +19,10 @@ We are from a city called Medellin, located in Colombia, South America.
 All images are owned by Medellin Travel Guide.
 Estefania helped 50% and Estefania helped the rest 50%.
 
+There is another great picture of the city
+
+
+
 ## License
 
 MIT
