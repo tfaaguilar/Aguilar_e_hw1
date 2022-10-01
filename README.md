@@ -21,6 +21,9 @@ Estefania helped 50% and Estefania helped the rest 50%.
 
 There is another great picture of the city
 
+ ![alt text](images/medellin2.jpg "Logo Title Text 1")
+
+
 
 
 ## License
